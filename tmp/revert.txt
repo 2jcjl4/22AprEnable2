@@ -1,0 +1,2 @@
+this file was made to learn how to use reverts using the git revert head
+and the git log -oneline function
