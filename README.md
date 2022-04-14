@@ -11,3 +11,6 @@ _**this file is made to learn with and test stuff on**_
  6. to leave the list loop
  7. press enter twice
 
+to add special characters to text use \\ before each special character
+so it will just display it as text so eg to display \*\* 
+you would code in \\\*\\\*
