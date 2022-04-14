@@ -1,3 +1,5 @@
 # 22AprEnable2
-_This is a header, to make a header use " ** 'Text' ** "_
+<td>
+ **This is a bold sentance, to make a bold text use <code> "**'Text'**" </code>**
+ </td>
  
